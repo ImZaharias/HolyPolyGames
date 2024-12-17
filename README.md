@@ -6,9 +6,9 @@ Welcome to **HolyPoly Games**! This is a collection of retro-styled web games de
 **HolyPoly Games** is a lightweight, browser-based platform for enjoying classic retro games. It's perfect for nostalgia enthusiasts or anyone looking to have some fun with simple yet engaging gameplay. The project is designed with a clean, responsive UI, making it accessible on both desktop and mobile devices.
 
 ## 🚀 Features
-- **Snake**: A classic snake game where you grow by eating food.
-- **Space Invaders**: Defend your ship from alien invaders!
-- **Flappy Bird**: Guide your bird through obstacles with precision timing.
+- **Pixel Snake**: A classic snake game where you grow by eating food.
+- **Space Protectors**: Defend your ship from alien invaders!
+- **Happy Wings**: Guide your bird through obstacles with precision timing.
 - Retro-inspired design.
 - Intuitive and responsive user interface.
 
