@@ -8,7 +8,7 @@ Welcome to **HolyPoly Games**! This is a collection of retro-styled web games de
 ## 🚀 Features
 - **Snake**: A classic snake game where you grow by eating food.
 - **Space Invaders**: Defend your ship from alien invaders!
-- **Tic Tac Toe**: Play the timeless strategy game.
+- **Flappy Bird**: Guide your bird through obstacles with precision timing.
 - Retro-inspired design.
 - Intuitive and responsive user interface.
 
