@@ -28,6 +28,14 @@ window.onload = function() {
     board.width = cols * blockSize
     context = board.getContext("2d") //used for drawing on the board
 
+    //Load background image
+    backgroundImg = new Image();
+    backgroundImg.src = './images/labyrinth.webp'
+    backgroundImg.onload = function() {
+        // Optional: draw the background image once it is loaded
+        context.drawImage(backgroundImg, 0, 0, board.width, board.height)
+    }
+
     placeFood()
     document.addEventListener("keyup", changeDirection)
     //update()
@@ -41,6 +49,9 @@ function update() {
 
     context.fillStyle="black"
     context.fillRect(0, 0, board.width, board.height)
+
+    // Draw the background image
+    context.drawImage(backgroundImg, 0, 0, board.width, board.height)
 
     context.fillStyle="red"
     context.fillRect(foodX, foodY, blockSize, blockSize)

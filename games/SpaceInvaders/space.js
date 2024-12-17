@@ -54,7 +54,7 @@ window.onload = function() {
 
     // Load background image
     backgroundImg = new Image();
-    backgroundImg.src = './images/background.png'
+    backgroundImg.src = './images/dark.webp'
     backgroundImg.onload = function() {
         // Optional: draw the background image once it is loaded
         context.drawImage(backgroundImg, 0, 0, board.width, board.height)
