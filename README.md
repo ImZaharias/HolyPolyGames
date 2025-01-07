@@ -1,4 +1,4 @@
-# HolyPoly Games ![App Homepage](HPGame.png)
+# HolyPoly Games ![App Homepage](HPgame.png)
 
 Welcome to **HolyPoly Games**! This is a collection of retro-styled web games developed with HTML, CSS, and JavaScript. Navigate through the dashboard to play classic games like Snake, Space Invaders, and Flappy Bird.
 
